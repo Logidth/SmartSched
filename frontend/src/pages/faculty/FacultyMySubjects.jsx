@@ -10,7 +10,7 @@ import {
 
 import { DataGrid } from "@mui/x-data-grid";
 
-import { getMyAssignments } from "../../services/facultySelfService";
+import { getMyAssignments } from "../../services/Facultyselfservice";
 
 const FacultyMySubjects = () => {
 

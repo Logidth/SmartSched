@@ -23,7 +23,7 @@ import AddIcon from "@mui/icons-material/Add";
 import {
     getMyLeaves,
     applyLeave
-} from "../../services/facultySelfService";
+} from "../../services/Facultyselfservice";
 
 const LEAVE_TYPES = [
     { value: "CASUAL", label: "Casual" },

@@ -15,7 +15,7 @@ import {
     Chip
 } from "@mui/material";
 
-import { getMyTimetable } from "../../services/facultySelfService";
+import { getMyTimetable } from "../../services/Facultyselfservice";
 
 const DAYS = [
     "MONDAY",

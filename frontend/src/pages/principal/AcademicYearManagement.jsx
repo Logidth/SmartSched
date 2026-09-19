@@ -8,8 +8,8 @@ import {
 
 import AddIcon from "@mui/icons-material/Add";
 
-import AcademicYearTable from "../../components/academicYear/AcademicYearTable";
-import AcademicYearFormDialog from "../../components/academicYear/AcademicYearFormDialog";
+import AcademicYearTable from "../../components/academicyear/AcademicYearTable";
+import AcademicYearFormDialog from "../../components/academicyear/AcademicYearFormDialog";
 import DeleteConfirmDialog from "../../components/common/DeleteConfirmDialog";
 import DashboardLayout from "../../components/layout/DashboardLayout";
 import {

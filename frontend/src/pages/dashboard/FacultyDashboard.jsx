@@ -20,7 +20,7 @@ import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import { useNavigate } from "react-router-dom";
 
 import useAuth from "../../hooks/useAuth";
-import { getMyDashboard } from "../../services/facultySelfService";
+import { getMyDashboard } from "../../services/Facultyselfservice";
 
 const StatCard = ({ icon, label, value, color }) => (
 
